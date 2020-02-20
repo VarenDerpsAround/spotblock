@@ -68,7 +68,6 @@ samsungotn.net
 www.samsungotn.net
 prod-kami.wuaki.tv
 prod-tvplus-pmd.akamai.cdn.wuaki.tv
-netflix.com
 api-global.geo.netflix.com
 many other *.netflix.com
 ypu.samsungelectronics.comd
@@ -105,8 +104,6 @@ notice.samsungcloudsolution.com
 
 osb.samsungqbe.com
 d38cmiae9b0e22.cloudfront.net
-www.google.com
-go.microsoft.com
 multiscreen.samsung.com
 config.samsungads.com
 otn.samsungcloudcdn.com
@@ -118,9 +115,6 @@ configprd.samsungcloudsolution.net
 log-config.samsungacr.com
 d3mjsomixevyw7.cloudfront.net
 youtubei.youtube.com
-www.youtube-nocookie.com
-www.youtube.com
-www.yahoo.com
 www.google-analytics.com
 tv.scdn.co
 
@@ -264,7 +258,6 @@ thinclient.chewie.internetat.tv
 toots-a.akamaihd.net
 u.scdn.co
 uiboot.netflix.com
-vimeo.com
 zpu.samsungelectronics.com
 kpu.samsungelectronics.com
 samsungelectronics.com
